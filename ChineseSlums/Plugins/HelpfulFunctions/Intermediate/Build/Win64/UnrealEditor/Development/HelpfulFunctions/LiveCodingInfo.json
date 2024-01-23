@@ -1,0 +1,21 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.HelpfulFunctions.1_of_2.cpp.obj": [
+			"ALS_BaseAI_CharacterCpp.gen.cpp.obj",
+			"ALS_HumanAI_ControllerCpp.gen.cpp.obj",
+			"ALS_HumanAI_InterfaceCpp.gen.cpp.obj",
+			"HelpfulFunctions.init.gen.cpp.obj",
+			"HelpfulFunctionsBPLibrary.gen.cpp.obj"
+		],
+		"Module.HelpfulFunctions.2_of_2.cpp.obj": [
+			"JakubW_ASyncFunctions.gen.cpp.obj",
+			"ALS_BaseAI_CharacterCpp.cpp.obj",
+			"ALS_HumanAI_ControllerCpp.cpp.obj",
+			"ALS_HumanAI_InterfaceCpp.cpp.obj",
+			"HelpfulFunctions.cpp.obj",
+			"HelpfulFunctionsBPLibrary.cpp.obj",
+			"JakubW_ASyncFunctions.cpp.obj"
+		]
+	}
+}

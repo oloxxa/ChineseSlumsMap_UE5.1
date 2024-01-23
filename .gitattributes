@@ -1,2 +1,5 @@
 # Auto detect text files and perform LF normalization
 * text=auto
+Interaction_With_ALS.exe filter=lfs diff=lfs merge=lfs -text
+TheClockTower-Uncharted4_DM.uasset filter=lfs diff=lfs merge=lfs -text
+Interaction_With_ALS.pdb filter=lfs diff=lfs merge=lfs -text

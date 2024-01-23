@@ -1,0 +1,10 @@
+{
+	"SourceFiles": [
+		"D:\\Project\\Assets\\Animations\\Interaction With Advanced Locomotion System (ALS v4)\\IWALS (Version 2.6.0.1) UE5\\IWALS (Version 2.6) UE5\\Plugins\\HelpfulFunctions\\Source\\HelpfulFunctions\\HelpfulFunctions.Build.cs",
+		"D:\\Project\\Assets\\Animations\\Interaction With Advanced Locomotion System (ALS v4)\\IWALS (Version 2.6.0.1) UE5\\IWALS (Version 2.6) UE5\\Plugins\\PowerIK\\Source\\PowerIKTool\\PowerIKTool.Build.cs",
+		"D:\\Project\\Assets\\Animations\\Interaction With Advanced Locomotion System (ALS v4)\\IWALS (Version 2.6.0.1) UE5\\IWALS (Version 2.6) UE5\\Plugins\\PowerIK\\Source\\PowerIKRuntime\\PowerIKRuntime.Build.cs",
+		"D:\\Project\\Assets\\Animations\\Interaction With Advanced Locomotion System (ALS v4)\\IWALS (Version 2.6.0.1) UE5\\IWALS (Version 2.6) UE5\\Intermediate\\Source\\Interaction_With_ALS.Build.cs",
+		"D:\\Project\\Assets\\Animations\\Interaction With Advanced Locomotion System (ALS v4)\\IWALS (Version 2.6.0.1) UE5\\IWALS (Version 2.6) UE5\\Intermediate\\Source\\Interaction_With_ALS.Target.cs"
+	],
+	"EngineVersion": "5.1.0"
+}
